@@ -1,12 +1,21 @@
-# Hi there, I'm Omar Watany 👋 
+# Hi there, I'm Omar Watany 👋
 
-**Full-Stack & Systems Software Developer** | **Computer Science Graduate ('26)**
+**Full-Stack & Systems Software Developer**
 
-I specialize in building scalable RESTful APIs, high-performance backends, and full-stack applications using **TypeScript/JavaScript (Nest.js, React)** and **C# (.NET)**. I enjoy bridging low-level systems programming (C/C++) with high-level microservices, modern cloud infrastructures, and AI integrations (RAG/LLMs).
+I specialize in building scalable RESTful APIs, high-performance backends, and full-stack applications. My engineering focus lies at the intersection of low-level systems programming (C/C++) and high-level, modern architectures (microservices, cloud infrastructure, and AI integrations). I am passionate about tackling complex technical bottlenecks—from minimizing memory allocations and designing concurrent networking layers, to optimizing database queries and deploying resilient AI pipelines.
 
 ---
 
-## 🛠 Tech Stack Matrix
+## 🛠 Core Engineering Competencies
+
+* 🏗 **Scalable Backend Architecture:** Designing clean, resilient microservices and RESTful APIs using **.NET** and **Node.js**. Experienced in implementing caching layers (Redis Cache-Aside), asynchronous task propagation, and complex ORM query optimizations.
+* ⚙️ **Systems Programming & Performance:** Deep understanding of memory safety and optimization in **C/C++**. Built custom memory arenas, low-level data structures, object-oriented C abstractions (VTables), and lock-free concurrent networking layers.
+* 🧠 **AI Infrastructure & RAG:** Integrating LLMs (Gemini, Ollama) and vector search engines into modern web platforms. Skilled in architecting dynamic, extensible pipelines (e.g., Factory Patterns for LLM inference) and mitigating deployment constraints.
+* ☁️ **Cloud & DevOps Workflows:** Orchestrating stable environment setups using **Docker Compose**, automating CI/CD workflows, and seamlessly integrating cloud services like AWS S3 for secure file streaming.
+
+---
+
+## 💻 Tech Stack Matrix
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -75,15 +84,6 @@ I specialize in building scalable RESTful APIs, high-performance backends, and f
   * Built enterprise RESTful architectures, MVC applications, and SQL optimizations.
 * 📊 **Data Engineering & Analysis Trainee** — CS Faculty *(Summer 2023)*
   * Extracted and analyzed datasets using Python (Pandas, NumPy) and web scraping tools.
-
----
-
-## ⚡ Interests & Technical Focus
-
-* 🏗 **Scalable Backend Systems:** Designing resilient microservices, caching systems, and database schemas.
-* 🧠 **AI Infrastructure:** Integrating LLMs, vector search, and RAG architectures into web platforms.
-* ⚙️ **Systems Programming:** Memory safety, data structure architecture, and low-level C/C++ development.
-* ☁️ **DevOps & Cloud:** Containerization, automated workflows, and cloud storage integration.
 
 ---
 
